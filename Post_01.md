@@ -27,3 +27,10 @@ We are over-investing in capability and under-investing in discernment.
 That gap is where projects fail — and where it becomes visible who actually understands the work.
 
 ---
+
+First comment text:
+
+This isn’t anecdotal—research from MIT Sloan Management Review and Boston Consulting Group shows most AI initiatives fail due to poor problem framing, not poor models:
+https://sloanreview.mit.edu/article/expanding-ais-impact-with-organizational-learning/
+
+---
